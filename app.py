@@ -3,7 +3,7 @@ import pandas as pd
 import streamlit as st
 
 # โหลดโมเดล Decision Tree
-model_DecisionTree = joblib.load(r"C:\Users\LENOVO\Desktop\Project_Ai\DecisionTree_model.joblib")
+model_DecisionTree = joblib.load("DecisionTree_model.joblib")
 
 # ตั้งค่าหน้าหลัก
 st.set_page_config(page_title="Heart Failure Prediction", page_icon="❤️")
