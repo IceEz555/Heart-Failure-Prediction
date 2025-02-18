@@ -1,3 +1,4 @@
 scikit-learn==1.2.2
-joblib
-numpy
+joblib==1.4.2
+numpy==1.6.4
+streamlit==1.5.0
