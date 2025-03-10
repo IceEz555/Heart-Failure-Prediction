@@ -8,7 +8,7 @@ model_DecisionTree = joblib.load("DecisionTree_model.joblib")
 # ตั้งค่าหน้าหลัก
 st.set_page_config(page_title="Heart Failure Prediction", page_icon="❤️")
 
-# สไตล์ Minimal (CSS)
+# (CSS)
 st.markdown(
     """
     <style>
