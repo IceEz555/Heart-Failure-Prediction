@@ -48,8 +48,8 @@ Low Risk → มีโอกาสต่ำ
 
 ## 🌐 Demo
 
-ถ้ามีการ deploy บน Streamlit Community Cloud หรือ platform อื่น
-สามารถใส่ลิงก์ได้ที่นี่: 
+![Preview2](01_Preview/Predict.png)
 
-👉 Demo Online
+👉 [Demo Online ](https://heart-failure-prediction-ai.streamlit.app/)
+
 
